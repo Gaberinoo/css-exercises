@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.bgp {
+    background-color: rgb(241, 159, 159);
+}
+
+.fspx {
+    font-size: 24px;
+}
+
+#numbertwo {
+    font-size: 36px;
+    color: #00f
+}
+
+#numberfour {
+    font-weight: bold;
+    background-color: hsl(120, 100%, 75%);
+}
